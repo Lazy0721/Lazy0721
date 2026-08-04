@@ -9,22 +9,24 @@
 
 </div>
 
+我是学生，主要学 **Java 后端**。平时喜欢把课上学的东西写成小项目练手，踩了不少坑，也长了点经验。
+平时捣鼓比较多的是 **Java 后端、MySQL/Redis、分布式、Docker 和 Linux 运维**。我不太爱只背概念，更愿意自己写出来、跑起来，能解决实际问题的才算真搞懂了。
+
+
 ## 🧭 Currently Focused On
 
-- 系统学习 **分布式架构**：从单体到分布式的演进、服务拆分与高并发场景。
-- 打磨 **Docker 容器技术**：把本地项目容器化，理解镜像、网络与编排。
-- 夯实 **Java 后端基础**：Spring Boot、MySQL、Redis 的工程化使用。
-- 探索 **嵌入式** 方向：把软件能力延伸到硬件 / 终端设备。
+- 正在学分布式，搞清楚一个系统怎么从单机拆成多个服务，怎么扛住高并发。
+- 在折腾 Docker，想把自己写的项目打成镜像跑起来，顺便弄明白网络和编排是咋回事。
+- 补 Java 后端的基本功，主要是 Spring Boot 配上 MySQL、Redis 实际写点东西。
+- 也在看嵌入式，想试试让写好的程序跑在硬件或者小设备上。
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- Java、Spring Boot，后端那点事
+- MySQL、Redis，怎么存数据、怎么用缓存
+- 分布式、高并发，系统怎么搭才稳
+- Docker、Linux，怎么把项目部署上线
+- 嵌入式，软硬都沾一点的小尝试
 
 ## 📌 What I'm Working On
 
