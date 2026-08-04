@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Lazy (Lazy0721)
+<div align="center">
 
-> 📍 China · 🌱 在 GitHub 上持续学习 & 折腾
+# Hi，我是 Lazy 👋
+
+**学生 / Java 后端方向 / 边做边学的技术爱好者**
+
+[![GitHub followers](https://img.shields.io/github/followers/Lazy0721?style=social)](https://github.com/Lazy0721)
+[![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
 ## 🧑‍💻 关于我 / About Me
 
@@ -29,3 +34,5 @@
 ---
 
 ⭐ 感谢来访！如果喜欢，点个 star 吧～
+</div>
+
