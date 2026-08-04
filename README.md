@@ -4,7 +4,6 @@
 
 **学生 / Java 后端方向 / 边做边学的技术爱好者**
 
-[![GitHub followers](https://img.shields.io/github/followers/Lazy0721?style=social)](https://github.com/Lazy0721)
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
 </div>
