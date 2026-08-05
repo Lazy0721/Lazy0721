@@ -19,11 +19,8 @@
 ---
 
 <div align="center">
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=-&nbsp劝君莫惜金缕衣，劝君惜取少年时&descAlignY=65&descAlign=80" width="100%" />
 <table>
-<tr><td>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=-&nbsp劝君莫惜金缕衣，劝君惜取少年时&descAlignY=65&descAlign=80" width="100%" />
-</td></tr>
 <tr><td>
 
 ### 🛠️ Tech Stack
