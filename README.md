@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=idea,java,mysql,redis,vue,windicss,linux,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,java,spring,mysql,redis,vue,windicss,linux,docker,git)](https://skillicons.dev)
 
 </div>
 
