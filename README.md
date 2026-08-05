@@ -89,7 +89,6 @@ Linux                                                                  █░░
 ```
 
 🤖 **AI Coding** 
-
 ```text
 🧠 8 AI Sessions, 342 AI Prompts
 
