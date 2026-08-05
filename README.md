@@ -6,9 +6,9 @@
 
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
+平时捣鼓比较多的是 **Java 后端、MySQL/Redis、分布式、Docker 和 Linux 运维**。
+我不太爱只背概念，更愿意自己写出来、跑起来，能解决实际问题的才算真搞懂了。
 </div>
-
-平时捣鼓比较多的是 **Java 后端、MySQL/Redis、分布式、Docker 和 Linux 运维**。我不太爱只背概念，更愿意自己写出来、跑起来，能解决实际问题的才算真搞懂了。
 
 
 ## 🧭 Currently Focused On
@@ -19,12 +19,7 @@
 - 也在看嵌入式，想试试让写好的程序跑在硬件或者小设备上。
 
 ## 🛠️ Tech Stack
-
-- Java、Spring Boot，后端那点事
-- MySQL、Redis，怎么存数据、怎么用缓存
-- 分布式、高并发，系统怎么搭才稳
-- Docker、Linux，怎么把项目部署上线
-- 嵌入式，软硬都沾一点的小尝试
+[![My Skills]([https://skillicons.dev/icons?i=java,git,mysql,redis,docker,linux](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git))](https://skillicons.dev)
 
 ## 📌 What I'm Working On
 
