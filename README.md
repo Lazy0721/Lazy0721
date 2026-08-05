@@ -2,7 +2,7 @@
 
 # Hi，我是 Lazy 👋
 
-**学生 / 边做边学的技术爱好者**
+**边做边学的技术爱好者**
 
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
@@ -26,7 +26,22 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git)](https://skillicons.dev)
 
 </div>
