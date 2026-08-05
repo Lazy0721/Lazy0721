@@ -11,7 +11,7 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
-<table width=100%>
+<table width="100%">
 <tr>
 <td>
 
