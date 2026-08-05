@@ -20,7 +20,7 @@
 
 <div align="center">
   
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lazy0721)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy0721)
   
 <table>
 <tr><td>
