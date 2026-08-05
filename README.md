@@ -119,3 +119,6 @@ GLM                                                          ███░░░�
 
 > **“既然选择了远方，便只顾风雨兼程。”**
 
+<p align="center">
+<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
