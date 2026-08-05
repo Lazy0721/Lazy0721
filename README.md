@@ -21,6 +21,7 @@
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=-&nbsp劝君莫惜金缕衣，劝君惜取少年时&descAlignY=65&descAlign=80" width="100%" />
+
 <table>
 <tr><td>
 
@@ -47,8 +48,7 @@
 </div>
 
 </td></tr>
-
-<tr><td>
+</table>
 
 ### 📊 WakaTime
 
@@ -101,9 +101,6 @@ Other                                              █░░░░░░░░�
 🔍 Hands-On Reviewer — 83.20% of changed lines were hand-edited
 ```
 
-</td></tr>
-
-</table>
 </div>
 
 ### 📖 My Story
