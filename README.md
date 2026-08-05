@@ -20,7 +20,7 @@
 - 也在看嵌入式，想试试让写好的程序跑在硬件或者小设备上。
 
 ## 🛠️ Tech Stack
-[![My Skills]([https://skillicons.dev/icons?i=java,git,mysql,redis,docker,linux](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git)](https://skillicons.dev)
 
 ## 📌 What I'm Working On
 
