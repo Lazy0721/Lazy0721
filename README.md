@@ -34,7 +34,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm a Night 🦉** 
 
