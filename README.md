@@ -93,9 +93,10 @@ Linux                                                                  █░░
 ```text
 🧠 8 AI Sessions, 342 AI Prompts
 
-DeepSeek                                                               ██████████████████████░░░   72.35 % 
+DeepSeek                                                               ██████████████████████░░░   72.35 %
 ChatGPT                                                                ██████░░░░░░░░░░░░░░░░░░░   18.83 %
-GLM                                                                    ███░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+GLM                                                                    ███░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Other                                                                  █░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 21.75% of written lines came from AI
