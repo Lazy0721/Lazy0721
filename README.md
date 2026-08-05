@@ -12,6 +12,8 @@
 </div>
 
 <table>
+<tr>
+<td>
 
 ### 🛠️ Tech Stack
 <div align="center">
@@ -38,6 +40,8 @@
 - **Email**：[lazyiy@qq.com](mailto:lazyiy@qq.com)
 - **GitHub**：[Lazy0721](https://github.com/Lazy0721)
 
+</td>
+</tr>
 </table>
 
 ### 📖 My Story
