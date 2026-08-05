@@ -42,61 +42,43 @@
 🌃 Evening                569 commits         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
 🌙 Night                  606 commits         ███████░░░░░░░░░░░░░░░░░░   26.70 % 
 ```
-📅 **I'm Most Productive on Friday** 
 
-```text
-Monday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Wednesday                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Sunday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+📊 **Where I’ve Spent My Lifetime** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
-JSON                     12 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   34.38 % 
-Bash                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-JavaScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Java                           █████████████████░░░░░░░░   73.88 % 
+Vue                            █████████░░░░░░░░░░░░░░░░   16.91 % 
+MySQL                          ██░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Bash                           ██░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Other                          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 21 mins      ████████████████████████░   97.02 % 
-Grok Build               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+IDEA                           ████████████████████████░   92.51 % 
+Codex                          █░░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+VS Code                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Mac                      35 hrs 24 mins      █████████████████████████   100.00 % 
+Window                         ████████████████████████░   95.05 %
+Linux                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **AI Coding** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (7.91%)
 
-✍️ 1,109 lines written by AI, 3,668 lines written by hand (23.22% AI-written)
+🧠 8 AI Sessions, 342 AI Prompts
 
-🔤 42,898,801 Input Tokens, 106,537 Output Tokens
-
-💵 $91.07 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 296 AI Prompts
-
-Grok                     1,309 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                       ██████████████████████░░░   72.35 % 
+ChatGPT                        ██████░░░░░░░░░░░░░░░░░░░   18.83 %
+GLM                            ███░░░░░░░░░░░░░░░░░░░░░░   08.82 %
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.22% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
-🔁 Iterative Prompter — average 59 prompts per session
-🔍 Hands-On Reviewer — 85.65% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.75% of written lines came from AI
+🔁 Iterative Prompter — average 42.75 prompts per session
+🔍 Hands-On Reviewer — 83.20% of changed lines were hand-edited
 ```
 
 
