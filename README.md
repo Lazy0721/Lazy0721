@@ -11,14 +11,14 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git)](https://skillicons.dev)
 
 </div>
 
-## 🧭 Currently Focused On
+### 🧭 Currently Focused On
 
 - 正在学分布式，搞清楚一个系统怎么从单机拆成多个服务，怎么扛住高并发。
 - 在折腾 Docker，想把自己写的项目打成镜像跑起来，顺便弄明白网络和编排是咋回事。
@@ -26,17 +26,17 @@
 - 也在看嵌入式，想试试让写好的程序跑在硬件或者小设备上。
 
 
-## 📌 What I'm Working On
+### 📌 What I'm Working On
 
 - 🌱 正在学习：*分布式架构、Docker容器技术*
 - 💡 兴趣方向：*Java后端开发、嵌入式*
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 - **Email**：[lazyiy@qq.com](mailto:lazyiy@qq.com)
 - **GitHub**：[Lazy0721](https://github.com/Lazy0721)
 
-## 📖 My Story
+### 📖 My Story
 
 > **“既然选择了远方，便只顾风雨兼程。”**
 
