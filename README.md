@@ -2,7 +2,7 @@
 
 # Hi，我是 Lazy 👋
 
-**学生 / Java 后端方向 / 边做边学的技术爱好者**
+**学生 / 边做边学的技术爱好者**
 
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
@@ -10,6 +10,12 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
