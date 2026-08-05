@@ -34,7 +34,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2035%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **I'm a Night 🦉** 
 
