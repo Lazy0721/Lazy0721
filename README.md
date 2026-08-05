@@ -58,7 +58,7 @@
 
 **I'm a Night 🦉** 
 
-<p align="center">
+<div align="center">
 
 ```text
 🌞 Morning                                         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
@@ -66,11 +66,11 @@
 🌃 Evening                                         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
 🌙 Night                                           ███████░░░░░░░░░░░░░░░░░░   26.70 % 
 ```
-</p>
+</div>
 
 📊 **Where I’ve Spent My Lifetime** 
 
-<p align="center">
+<div align="center">
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -91,11 +91,11 @@ VS Code                                            ░░░░░░░░░�
 Window                                             ████████████████████████░   95.05 %
 Linux                                              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
-</p>
+</div>
 
 🤖 **AI Coding** 
 
-<p align="center">
+<div align="center">
 
 ```text
 🧠 8 AI Sessions, 342 AI Prompts
@@ -111,7 +111,7 @@ Other                                              █░░░░░░░░�
 🔍 Hands-On Reviewer — 83.20% of changed lines were hand-edited
 ```
 
-</p>
+</div>
 
 ### 📖 My Story
 
