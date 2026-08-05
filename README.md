@@ -22,6 +22,12 @@
 
 </div>
 
+</td>
+</tr>
+
+<tr>
+<td>
+
 ### 🧭 Currently Focused On
 
 - 正在学分布式，搞清楚一个系统怎么从单机拆成多个服务，怎么扛住高并发。
@@ -29,11 +35,22 @@
 - 补 Java 后端的基本功，主要是 Spring Boot 配上 MySQL、Redis 实际写点东西。
 - 也在看嵌入式，想试试让写好的程序跑在硬件或者小设备上。
 
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 📌 What I'm Working On
 
 - 🌱 正在学习：*分布式架构、Docker容器技术*
 - 💡 兴趣方向：*Java后端开发、嵌入式*
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🤝 Connect with Me
 
