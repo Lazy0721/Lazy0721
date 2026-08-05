@@ -24,8 +24,8 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-<table align="center">
-<tr><td>
+<table>
+<tr><td align="center">
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -44,7 +44,7 @@
     
 </td></tr>
 
-<tr><td>
+<tr><td align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git)](https://skillicons.dev)
   
