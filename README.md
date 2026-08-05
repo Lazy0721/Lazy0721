@@ -11,6 +11,12 @@
 我不太爱只背概念，更愿意自己写出来、跑起来，能解决实际问题的才算真搞懂了。
 </div>
 
+## 🛠️ Tech Stack
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git)](https://skillicons.dev)
+
+</div>
 
 ## 🧭 Currently Focused On
 
@@ -19,12 +25,6 @@
 - 补 Java 后端的基本功，主要是 Spring Boot 配上 MySQL、Redis 实际写点东西。
 - 也在看嵌入式，想试试让写好的程序跑在硬件或者小设备上。
 
-## 🛠️ Tech Stack
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git)](https://skillicons.dev)
-
-</div>
 
 ## 📌 What I'm Working On
 
