@@ -22,7 +22,7 @@
   
 <table>
 <tr><td>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=路漫漫其修远兮，吾将上下而求索&descAlignY=55&descAlign=60" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=劝君莫惜金缕衣，劝君惜取少年时&descAlignY=85&descAlign=60" width="100%" />
 </td></tr>
 <tr><td>
 
