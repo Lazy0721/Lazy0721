@@ -24,6 +24,8 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
+<table>
+<tr><td>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -39,9 +41,16 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+    
+</td></tr>
+
+<tr><td>
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,redis,vue,vite,pinia,windicss,linux,docker,git)](https://skillicons.dev)
+  
+</td></tr>
 
+</table>
 </div>
 
 ### 📊 WakaTime
