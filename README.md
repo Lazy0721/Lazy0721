@@ -11,6 +11,7 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
+<div align="center">
 <table width="100%">
 <tr>
 <td>
@@ -60,6 +61,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ### 📖 My Story
 
