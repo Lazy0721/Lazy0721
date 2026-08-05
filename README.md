@@ -106,27 +106,6 @@ GLM                                                          ███░░░�
 </td>
 </tr>
 
-<tr>
-<td>
-
-### 📌 What I'm Working On
-
-- 🌱 正在学习：*分布式架构、Docker容器技术*
-- 💡 兴趣方向：*Java后端开发、嵌入式*
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🤝 Connect with Me
-
-- **Email**：[lazyiy@qq.com](mailto:lazyiy@qq.com)
-- **GitHub**：[Lazy0721](https://github.com/Lazy0721)
-
-</td>
-</tr>
 </table>
 </div>
 
