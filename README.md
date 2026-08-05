@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
 平时捣鼓比较多的是 **Java 后端、MySQL/Redis、分布式、Docker 和 Linux 运维**。
+
 我不太爱只背概念，更愿意自己写出来、跑起来，能解决实际问题的才算真搞懂了。
 </div>
 
