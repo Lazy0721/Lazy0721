@@ -11,6 +11,8 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
+<table>
+
 ### 🛠️ Tech Stack
 <div align="center">
   
@@ -35,6 +37,8 @@
 
 - **Email**：[lazyiy@qq.com](mailto:lazyiy@qq.com)
 - **GitHub**：[Lazy0721](https://github.com/Lazy0721)
+
+</table>
 
 ### 📖 My Story
 
