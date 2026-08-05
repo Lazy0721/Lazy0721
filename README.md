@@ -58,14 +58,19 @@
 
 **I'm a Night 🦉** 
 
+<p align="center">
+
 ```text
 🌞 Morning                                         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
 🌆 Daytime                                         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 🌃 Evening                                         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
 🌙 Night                                           ███████░░░░░░░░░░░░░░░░░░   26.70 % 
 ```
+</p>
 
 📊 **Where I’ve Spent My Lifetime** 
+
+<p align="center">
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
@@ -86,8 +91,12 @@ VS Code                                            ░░░░░░░░░�
 Window                                             ████████████████████████░   95.05 %
 Linux                                              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
+</p>
 
 🤖 **AI Coding** 
+
+<p align="center">
+
 ```text
 🧠 8 AI Sessions, 342 AI Prompts
 
@@ -101,6 +110,8 @@ Other                                              █░░░░░░░░�
 🔁 Iterative Prompter — average 42.75 prompts per session
 🔍 Hands-On Reviewer — 83.20% of changed lines were hand-edited
 ```
+
+</p>
 
 ### 📖 My Story
 
