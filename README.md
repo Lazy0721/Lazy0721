@@ -49,6 +49,7 @@
 
 </td></tr>
 </table>
+</div>
 
 ### 📊 WakaTime
 
@@ -100,8 +101,6 @@ Other                                              █░░░░░░░░�
 🔁 Iterative Prompter — average 42.75 prompts per session
 🔍 Hands-On Reviewer — 83.20% of changed lines were hand-edited
 ```
-
-</div>
 
 ### 📖 My Story
 
