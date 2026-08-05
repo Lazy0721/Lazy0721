@@ -6,9 +6,9 @@
 
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
-平时捣鼓比较多的是 **Java 后端、MySQL/Redis、分布式、Docker 和 Linux 运维**。
-
-我不太爱只背概念，更愿意自己写出来、跑起来，能解决实际问题的才算真搞懂了。
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </div>
 
 ## 🛠️ Tech Stack
