@@ -46,6 +46,8 @@
 ```
 </div>
 
+---
+
 📊 **Where I’ve Spent My Lifetime** 
 
 <div align="center">
@@ -77,6 +79,8 @@ Window                                        ███████████�
 Linux                                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 </div>
+
+---
 
 🤖 **AI Coding** 
 
