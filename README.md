@@ -57,7 +57,7 @@
 - Time Zone: Asia/Shanghai -
 ```
 
-> 💬 Programming Languages:
+💬 Programming Languages:
 ```text
 Java                                          █████████████████░░░░░░░░   73.88 % 
 Vue                                           █████████░░░░░░░░░░░░░░░░   16.91 % 
@@ -66,14 +66,14 @@ Bash                                          ██░░░░░░░░░�
 Other                                         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
-> 🔥 Editors:
+🔥 Editors:
 ```text
 IDEA                                          ████████████████████████░   92.51 % 
 Codex                                         █░░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 VS Code                                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
-> 💻 Operating System:
+💻 Operating System:
 ```text
 Window                                        ████████████████████████░   95.05 %
 Linux                                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
@@ -86,7 +86,7 @@ Linux                                         █░░░░░░░░░░�
 
 <div align="center">
 
-> 🧠8 AI Sessions, 342 AI Prompts
+🧠 8 AI Sessions, 342 AI Prompts
 ```text
 DeepSeek                                      ██████████████████████░░░   72.35 %
 ChatGPT                                       ██████░░░░░░░░░░░░░░░░░░░   18.83 %
@@ -94,7 +94,7 @@ GLM                                           ███░░░░░░░░�
 Other                                         █░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
-> 🔎 AI Coding Insights:
+🔎 AI Coding Insights:
 ```text
 🧑‍💻 Mostly Hands-On — 21.75% of written lines came from AI
 🔁 Iterative Prompter — average 42.75 prompts per session
