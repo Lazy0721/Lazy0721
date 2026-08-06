@@ -19,7 +19,8 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=-&nbsp技术宅改变世界&descAlignY=65&descAlign=80" width="100%" />
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&nbsp&descAlignY=65&descAlign=80" width="100%" />-->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 ### 🛠️ Tech Stack
