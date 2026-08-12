@@ -92,7 +92,9 @@ Other                               █░░░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 > 🧑‍💻 Mostly Hands-On — 21.75% of written lines came from AI
+> 
 > 🔁 Iterative Prompter — average 42.75 prompts per session
+> 
 > 🔍 Hands-On Reviewer — 83.20% of changed lines were hand-edited
 
 </div>
