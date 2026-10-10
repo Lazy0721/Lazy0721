@@ -2,8 +2,6 @@
 
 # Hi，我是 Lazy
 
-**边做边学的技术爱好者**
-
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
 ---
