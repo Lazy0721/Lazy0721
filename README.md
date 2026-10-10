@@ -9,11 +9,20 @@
 ---
 
 <div align="left">
+
 <img src="img/character.png" alt="Lazy" width="220" align="right" />
-热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。 </br>
-日常开发都在 Windows 11 里完成，偶尔会在 Linux 和 Windows 工具链之间切换。 </br>
-除写代码之外，我喜欢看动画和轻小说，也听音乐。 </br>
-我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。 </br>
+
+I am passionate about computer science and the IT internet industry, 
+aspiring to become an excellent developer. I do most of my daily development 
+work on Windows 11, occasionally switching between Linux and Windows toolchains, 
+and I am continuously expanding my expertise across the full web technology stack.
+
+Beyond coding, I enjoy watching anime, reading light novels, and listening to music. 
+These hobbies make me pay special attention to visual design and content layout 
+quality when developing projects.
+
+We are striving to make the world a better place, building elegant systems through code reuse and extensibility.
+
 </div>
 
 <picture>
