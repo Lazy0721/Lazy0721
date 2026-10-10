@@ -6,6 +6,8 @@
 
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
+---
+
 <div align="left">
 <img src="img/character.png" alt="Lazy" width="220" align="right" />
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
