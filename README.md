@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi，我是 Lazy
+# Hi, I'm Lazy
 
-[![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lazy0721/Lazy0721/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lazy0721/Lazy0721/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lazy0721/Lazy0721/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
@@ -25,11 +29,6 @@ We are striving to make the world a better place, building elegant systems throu
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lazy0721/Lazy0721/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lazy0721/Lazy0721/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Lazy0721/Lazy0721/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 </div>
 
 ---
