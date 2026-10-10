@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-lazyiy@qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lazyiy@qq.com)
 
+<img src="img/character.png" alt="Lazy" width="220" align="right" />
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 
@@ -93,7 +94,3 @@ Other                               █░░░░░░░░░░░░░�
 > 🔍 Hands-On Reviewer — 83.20% of changed lines were hand-edited
 
 </div>
-
-### 📖 My Story
-
-> **“既然选择了远方，便只顾风雨兼程。”**
