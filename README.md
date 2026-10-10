@@ -42,7 +42,7 @@ We are striving to make the world a better place, building elegant systems throu
 
 </div>
 
-### 📊 WakaTime
+### 📊 WorkTime
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
