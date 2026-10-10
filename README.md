@@ -18,15 +18,10 @@
 
 ---
 
-<div align="center">
-  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&nbsp&descAlignY=65&descAlign=80" width="100%" />-->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=LAZY&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
-
 ### 🛠️ Tech Stack
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,java,spring,mysql,redis,vue,windicss,linux,nginx,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,java,spring,mysql,redis,vue,windicss,linux,nginx,docker,git&theme=light)](https://skillicons.dev)
 
 </div>
 
@@ -102,7 +97,3 @@ Other                               █░░░░░░░░░░░░░�
 ### 📖 My Story
 
 > **“既然选择了远方，便只顾风雨兼程。”**
-
-<p align="center">
-<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
