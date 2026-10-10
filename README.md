@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi，我是 Lazy 👋
+# Hi，我是 Lazy
 
 **边做边学的技术爱好者**
 
@@ -9,6 +9,8 @@
 ---
 
 <div align="left">
+
+# Summary
 
 <img src="img/character.png" alt="Lazy" width="220" align="right" />
 
