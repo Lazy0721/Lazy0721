@@ -10,8 +10,10 @@
 
 <div align="left">
 <img src="img/character.png" alt="Lazy" width="220" align="right" />
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。
+日常开发都在 Windows 11 里完成，偶尔会在 Linux 和 Windows 工具链之间切换。
+除写代码之外，我喜欢看动画和轻小说，也听音乐
+我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
 </div>
 
 <picture>
